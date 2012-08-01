@@ -51,27 +51,27 @@ ONS指ONScripter，以模拟NScripter为初衷的开源GALGame引擎，虽然功
 
 解压(如果是压缩文件)/复制下载好的游戏文件到你硬盘上的某个目录下，我们假设其名字为eustia。游戏文件包括：
 
-* 脚本文件: [eustia-test0.04.rar](http://u.115.com/file/dn6tae7z)
+* 脚本文件: [eustia-test0.04.7z](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2485463969)
 
-* 字体文件，或重命名任意你喜欢的ttf字体亦可: [default.ttf](http://u.115.com/file/bh59vk8p)
+* 字体文件，或重命名任意你喜欢的ttf字体亦可: [default.ttf](http://pan.baidu.com/netdisk/singlepublic?fid=807561_3474499221)
 
-* 图像文件: [arc.nsa](http://u.115.com/file/e6y9lwnm)
+* 图像文件: [arc.nsa](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2526025782)
 
-* 声音文件: [arc1.nsa](http://u.115.com/file/bh59o9fv)
+* 声音文件: [arc1.nsa](http://pan.baidu.com/netdisk/singlepublic?fid=807495_4158882318)
 
-* 语音文件, 可选: [arc2.nsa](http://u.115.com/file/aq3wleuk)
+* 语音文件, 可选: [arc2.nsa](http://pan.baidu.com/netdisk/singlepublic?fid=807495_1196000886)
 
-* 视频文件, 可选: [video.rar](http://u.115.com/file/bh59vbg3)
+* 视频文件, 可选: [video.rar](http://pan.baidu.com/netdisk/singlepublic?fid=807495_505710848)
 
 如果你是Android平台,请安装
 [ONScripter-GBK.apk](http://u.115.com/file/aqk05wat) (此为0619版，可自行搜索新版本使用)，并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
 
 如果你是S60平台，请参考[这里](http://www.opda.net.cn/thread-587174-1-1.html)和[这里](http://kdays.cn/days/read.php?tid=67001)。
 
-如果你需要在win下运行，可以使用[win版的ons-gbk](http://u.115.com/file/aq3wrxy5) ，解压到游戏目录，运行其中run.bat即可使用宽屏模式运行。
+如果你需要在win下运行，可以使用[win版的ons-gbk](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2166340977) ，解压到游戏目录，运行其中run.bat即可使用宽屏模式运行。
 如果使用其它版本的onscripter，请注意在20110416版之前它是不支持宽屏模式的。
 
-[这里](http://u.115.com/file/aqzlfp6r)是源代码。感谢最早给onscripter添加gbk支持的John_HE大，以及将其添加进20110416版的kid组的natdon君。
+[这里](http://code.google.com/p/onscripter/source/checkout)是源代码。感谢最早给onscripter添加gbk支持的John_HE大，以及将其添加进20110416版的kid组的natdon君。
 
 如果你是其它平台的使用者，欢迎反馈使用效果XD
 
@@ -99,7 +99,7 @@ Enjoy~~
 
 ## 其它说明
 
-1. 如果你从其它地方下载了之前移植版本的秽翼，请注意这次发生变化的文件是脚本文件和图像文件两部分。如果你不想下载900M+的图像文件，可以用[这个压缩包](http://u.115.com/file/bhzowdpa)代替，解压进原游戏目录即可，当然不要忘记脚本。
+1. 如果你从其它地方下载了之前移植版本的秽翼，请注意这次发生变化的文件是脚本文件和图像文件两部分。如果你不想下载900M+的图像文件，可以用[这个压缩包](http://pan.baidu.com/netdisk/singlepublic?fid=807495_3480070335)代替，解压进原游戏目录即可，当然不要忘记仍然要更新脚本。
 
 2. 系统方面，截图演示的即为全部已实现部分了，考虑到秽翼的系统确实nice，我承认这是一件憾事，这也是我命名版本号为0.04的原因。另外标题画面中的continue目前临时对应的是quick load功能。
 
@@ -111,11 +111,13 @@ Enjoy~~
 
 6. 如需开启跳章节功能请将90.txt中的`numalias DEBUG_MODE_EX`后头的0改成1。另外请注意开启跳章节时会跳过章节中的选择项(如果有的话)，故请小心。
 
-7. 如果你对脚本文件中10.txt的生成感兴趣，可以参考[这里](http://u.115.com/file/aqzc6rwb)。当然实际上改的很糟糕，边用边改，理解完全是错误的，只是恰好work了而已，所以也算不上“可以参考”了……基于python2.6,执行格式是`python bgidis.py aiy*`，然后会生成`aiy*.bss`，合并即得10.txt. 注意aiy40300反编译会出错，是因为用来确定脚本结束位置的1B000000定位错误，未修正，直接修改/删除掉脚本最末尾出现的1B000000可以解决。
+7. 如果你对脚本文件中10.txt的生成感兴趣，可以参考[这里](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2799048044)。当然实际上改的很糟糕，边用边改，理解完全是错误的，只是恰好work了而已，所以也算不上“可以参考”了……基于python2.6,执行格式是`python bgidis.py aiy*`，然后会生成`aiy*.bss`，合并即得10.txt. 注意aiy40300反编译会出错，是因为用来确定脚本结束位置的1B000000定位错误，未修正，直接修改/删除掉脚本最末尾出现的1B000000可以解决。
 
 8. 我的水平非常有限，挨骂在所难免，有bug欢迎汇报，直接回复本帖或mailto:skydarkever at gmail.com均可。
 
-9. 附[日文脚本下载](http://115.com/file/clop7cb0)，解压替换掉游戏中的10.txt即可。但你仍需要GBK版的模拟器运行。如果需要在日文原版引擎上运行，请自行转码为Shift-JIS.
+9. 附[日文脚本下载](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2939352988)，解压替换掉游戏中的10.txt即可。但你仍需要GBK版的模拟器运行。如果需要在日文原版引擎上运行，请自行转码为Shift-JIS.
+
+10. 附[游戏文本](http://pan.baidu.com/netdisk/singlepublic?fid=807495_3351837790)。
 
 感谢大家的支持，祝各位无论何地都能感受到八月充满诚意的新作的魅力。
 

@@ -91,19 +91,19 @@ title: "实妹相伴的大泉君 ONS移植版"
 
 * 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
 
-* [脚本文件(5月3日0.05版)](http://u.115.com/file/e6cuk3l5)
+* [脚本文件(5月3日0.05版)](http://pan.baidu.com/netdisk/singlepublic?fid=807910_587753073)
 
-* [图像文件](http://u.115.com/file/clinq9f8)
+* [图像文件,请重命名为`arc.nsa`](http://pan.baidu.com/netdisk/singlepublic?fid=807910_3236578514)
 
-* [字体文件](http://u.115.com/file/f4a0bf6e64) 其实你硬盘上任何一个中文字体改名为default.ttf都可以用。
+* [字体文件](http://pan.baidu.com/netdisk/singlepublic?fid=807561_3474499221) 其实你硬盘上任何一个中文字体改名为default.ttf都可以用。
 
-* [音乐音效](http://u.115.com/file/f462c6fecd)（88M）
+* [音乐音效](http://pan.baidu.com/netdisk/singlepublic?fid=807910_3517237881)（88M）
 
-* [语音文件](http://u.115.com/file/f414bcc38b)（218M，可选）
+* [语音文件](http://pan.baidu.com/netdisk/singlepublic?fid=807910_102826906)（218M，可选）
 
     在SD卡上ons目录下新建一个目录（名字随便），将脚本文件解压进去，将字体文件、图像文件、音乐音效、语音文件(可选)复制进去即可游戏。
 
-* [视频](http://u.115.com/file/f44bc3fccf)（83M）
+* [视频](http://pan.baidu.com/netdisk/singlepublic?fid=807910_836277180)（83M）
 
     PC上使用ONS运行时如果需要播放视频，请将这个压缩包解压进游戏目录，因为原作分辨率较高，这些视频是我把PC原版文件重压后得到的，直接从原作中复制出来也可以用。
 
@@ -130,9 +130,9 @@ title: "实妹相伴的大泉君 ONS移植版"
 
 如果你是1024x600分辨率等大分辨率机型，或者想使用PC版ONS运行，可以使用800x600分辨率的游戏资源，下载时使用下面的资源即可：
 
-[800x600版脚本文件](http://u.115.com/file/f44b7b3e28)
+[800x600版脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807910_86599503)
 
-[800x600版图像文件（230M）](http://u.115.com/file/f4b25dae1d)
+[800x600版图像文件（230M）](http://pan.baidu.com/netdisk/singlepublic?fid=807910_3948019784)
 
 值得注意的是目前有四位朋友汇报使用3月22日及之后版本的新版ONS运行这里的800x600版游戏在开启自动缩放后无法正常读档，但这个问题我和natdon君均无法重现，可能是部分机型的问题，所以如果你的机型分辨率没有达到800x600以上，推荐不要使用这里的800x600资源。
 

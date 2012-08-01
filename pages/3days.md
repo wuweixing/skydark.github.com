@@ -52,21 +52,21 @@ title: "3days ONS 移植版"
 
 * 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
 
-* [脚本文件](http://u.115.com/file/f4d9b83af4)(3月1日0.131415版)
+* [脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807912_2339114995)(3月1日0.131415版)
 
-* [图像](http://u.115.com/file/f4affe1afc)（168M）
+* [图像](http://pan.baidu.com/netdisk/singlepublic?fid=807912_3823193133)（168M）
 
-* [字体文件](http://u.115.com/file/f4a0bf6e64)（我的疏忽……一开始忘记了……虽然其实随便找一个中文字体改名为default.ttf就可以用的）：
+* [字体文件](http://pan.baidu.com/netdisk/singlepublic?fid=807561_3474499221)（我的疏忽……一开始忘记了……虽然其实随便找一个中文字体改名为default.ttf就可以用的）：
 
     在SD卡上ons目录下新建一个目录（名字随便），将脚本文件解压进去，将图像文件复制进去，然后复制字体文件进去即可游戏。
 
-* [音乐](http://u.115.com/file/f4d5aed8f5)（50M）
+* [音乐](http://pan.baidu.com/netdisk/singlepublic?fid=807912_2358954209)（50M）
 
-* [语音](http://u.115.com/file/f43bb9de75)（400M）
+* [语音](http://pan.baidu.com/netdisk/singlepublic?fid=807912_2452522568)（400M）
 
     如果需要音乐和人物语音，请将这两个文件命名为arc1.nsa, arc2.nsa放入游戏目录。
 
-* [OP](http://u.115.com/file/f4c6430a42)（100M）
+* [OP](http://pan.baidu.com/netdisk/singlepublic?fid=807912_511493750)（100M）
 
     PC上使用ONS运行时如果需要播放OP，请将这个文件放入游戏目录，实际上这个文件就是PC原版的OP文件。
 
@@ -78,10 +78,10 @@ title: "3days ONS 移植版"
 
 如果想在Windows上玩，请下载以下两个压缩文件中的任意一个，解压到游戏目录中，运行其中的exe文件即可：
 
-[NScripter2.94chs](http://u.115.com/file/f4a74057ee)
-[ONScripter20100919(2.94)](http://u.115.com/file/f42d1bdf55)
+[NScripter2.94chs](http://pan.baidu.com/netdisk/singlepublic?fid=807912_4285520317)
+[ONScripter20100919(2.94)](http://pan.baidu.com/netdisk/singlepublic?fid=807912_1848000979)
 
-如果想要800x600版，与顶楼不同的是[图片文件](http://u.115.com/file/clw0y4ws)和[脚本文件](http://u.115.com/file/e60pgsix)，其他的声音视频等是共通的。
+如果想要800x600版，与顶楼不同的是[图片文件，请下载后重命名为`arc.nsa`](http://pan.baidu.com/netdisk/singlepublic?fid=807912_4266462850)和[脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807912_3316781703)，其他的声音视频等是共通的。
 
 800x600版主要目的是给PC的（还原PC版效果），也不排除大屏高分辨率Android平板使用。
 
@@ -140,12 +140,12 @@ title: "3days ONS 移植版"
 
 ## 历史脚本
 
-[2月10日0.09b脚本](http://u.115.com/file/f4e2f66022)
+[2月10日0.09b脚本](http://pan.baidu.com/netdisk/singlepublic?fid=807912_2788888868)
 
-[2月20日0.11脚本](http://u.115.com/file/f4fa7f0f94)
+[2月20日0.11脚本](http://pan.baidu.com/netdisk/singlepublic?fid=807912_3901102827)
 
 如果需要知道脚本是怎样生成的，以及改分辨率重新打包等问题，也许可以参考
-[这里](http://u.115.com/file/f4c6a269db)
+[这里](http://pan.baidu.com/netdisk/singlepublic?fid=807912_1517196851)
 （是0.09版本时候的了，也许不完全对新版有效，但参考价值还是有的……）
 
 ---
