@@ -81,8 +81,10 @@ group: navigation
 {: .hide}
 
 * [Lisp 中文维基](http://lisp.org.cn/wiki/)
+* [Schemewiki](http://community.schemewiki.org/)
 * [Documention](http://www.newlisp.org/index.cgi?Documentation)
 * [Forum](http://newlispfanclub.alh.net/forum/)
+* [Manual](http://www.newlisp.org/downloads/manual_frame.html)
 * [CodePattern](http://www.newlisp.org/CodePatterns-cn.html)
 * [Introduction to newLISP](http://en.wikibooks.org/wiki/Introduction_to_newLISP)
 * [MemoryManagement](http://www.newlisp.org/MemoryManagement.html)
