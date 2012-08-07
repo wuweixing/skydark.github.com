@@ -65,6 +65,7 @@ group: navigation
 
 * [ProGit](http://progit.org/book/zh/)
 * [Git Community Book](http://gitbook.liuhui998.com/index.html)
+* [C2Wiki](http://c2.com/cgi/wiki?FindPage)
 * [Kramdown Syntax](http://kramdown.rubyforge.org/syntax.html)
 * [Learn Code The Hard Way](http://learncodethehardway.org/)
 * [DiveIntoPython3](http://woodpecker.org.cn/diveintopython3/)
