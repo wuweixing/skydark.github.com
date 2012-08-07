@@ -64,7 +64,7 @@ ONS指ONScripter，以模拟NScripter为初衷的开源GALGame引擎，虽然功
 * 视频文件, 可选: [video.rar](http://pan.baidu.com/netdisk/singlepublic?fid=807495_505710848)
 
 如果你是Android平台,请安装
-[ONScripter-GBK.apk](http://u.115.com/file/aqk05wat) (此为0619版，可自行搜索新版本使用)，并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
+[ONScripter-GBK.apk](http://pan.baidu.com/netdisk/singlepublic?fid=907105_3678419696) (此为0619版，可自行搜索新版本使用)，并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
 
 如果你是S60平台，请参考[这里](http://www.opda.net.cn/thread-587174-1-1.html)和[这里](http://kdays.cn/days/read.php?tid=67001)。
 

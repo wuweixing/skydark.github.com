@@ -45,13 +45,13 @@ title: "Fate ONS移植版"
 
 感谢炮神的[分流](http://bbs.gfan.com/viewthread.php?tid=327827)！
 
-1. [游戏本体](http://u.115.com/file/e6kelnja#)
-2. [游戏语音(可选)](http://u.115.com/file/aq7vfqdz#)
+1. [游戏本体](http://pan.baidu.com/netdisk/singlepublic?fid=807221_1660485860)
+2. [游戏语音(可选)](http://pan.baidu.com/netdisk/singlepublic?fid=807221_4130406788)
 3. [CG鉴赏模式补丁](http://pan.baidu.com/netdisk/singlepublic?fid=807221_1278623672)
 4. [最新脚本(2012/02/10更新)](http://pan.baidu.com/netdisk/singlepublic?fid=807221_791635844)
 
 请按顺序解压到同一个目录中。
-模拟器请自行搜索下载最新版。Android 用户可以使用[ONScripter-GBK.apk](http://u.115.com/file/aqk05wat) (此为20110619版），并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
+模拟器请自行搜索下载最新版。Android 用户可以使用[ONScripter-GBK.apk](http://pan.baidu.com/netdisk/singlepublic?fid=907105_3678419696) (此为20110619版），并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
 
 特别需要强调的是，遇到任何问题前，*请确保已经使用了CG鉴赏模式补丁和最新脚本*。
 
