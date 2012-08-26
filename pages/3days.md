@@ -50,7 +50,7 @@ title: "3days ONS 移植版"
 
 * 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
 
-* [脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807912_2339114995)(3月1日0.131415版)
+* [脚本文件](http://pan.baidu.com/share/link?shareid=6972&uk=1124565063/)(2012/08/26 0.1314159版)
 
 * [图像](http://pan.baidu.com/netdisk/singlepublic?fid=807912_3823193133)（168M）
 
@@ -79,7 +79,7 @@ title: "3days ONS 移植版"
 [NScripter2.94chs](http://pan.baidu.com/netdisk/singlepublic?fid=807912_4285520317)
 [ONScripter20100919(2.94)](http://pan.baidu.com/netdisk/singlepublic?fid=807912_1848000979)
 
-如果想要800x600版，与顶楼不同的是[图片文件，请下载后重命名为`arc.nsa`](http://pan.baidu.com/netdisk/singlepublic?fid=807912_4266462850)和[脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807912_3316781703)，其他的声音视频等是共通的。
+如果想要800x600版，与顶楼不同的是[图片文件，请下载后重命名为`arc.nsa`](http://pan.baidu.com/netdisk/singlepublic?fid=807912_4266462850)和[脚本文件](http://pan.baidu.com/share/link?shareid=6971&uk=1124565063/)，其他的声音视频等是共通的。
 
 800x600版主要目的是给PC的（还原PC版效果），也不排除大屏高分辨率Android平板使用。
 
@@ -166,6 +166,8 @@ title: "3days ONS 移植版"
 2月27日修正汉化版中后宫End处乱码bug，感谢百度3days吧whaleboss君的提醒。
 
 3月1日细微调整至PC版效果。
+
+2012/08/26 修正路线bug，感谢PyMO版移植者Smileの寂寞。
 
 ---
 
