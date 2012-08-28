@@ -201,6 +201,15 @@ li.gplus_status {
 	height: 120px;
 }
 
+.for-404 {
+	overflow: hidden;
+	margin: 0px auto;
+	width: 400px;
+}
+.for-404 p {
+    text-align:center;
+}
+
 .clear {
 	clear: both;
 }
