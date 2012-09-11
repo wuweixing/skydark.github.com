@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "雪之本境解境篇(暂定)"
+title: "雪之本境解境篇"
 category: ACG
 excerpt: 比怒赞更高一点的评价是啥？
 tags: [acg, sptime]
