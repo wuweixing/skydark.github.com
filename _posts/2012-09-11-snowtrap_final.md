@@ -14,7 +14,7 @@ tags: [acg, sptime]
 
 放张照片，99元版的，不要吐槽细节……
 
-![实物图]({{BASE_PATH}}/images/snowtrap1.jpg)
+![实物图]({{BASE_PATH}}/images/game/snowtrap1.jpg)
 
 作品本身质量上乘，送的东西也很实在，绝对物超所值，强烈推荐收豪华版(壕们还有壕版在看着你们啊亲～)。
 
@@ -34,7 +34,7 @@ tags: [acg, sptime]
 2. **怒赞！**
 3. ***瀑布赞！***
 
-![title]({{BASE_PATH}}/images/snowtrap2.jpg)
+![title]({{BASE_PATH}}/images/game/snowtrap2.jpg)
 
 总感觉想表达点什么，但是完全整理不出头绪。
 从某些方面讲希望给别人介绍自己喜欢的东西，另一方面却又清楚自己没那本事。

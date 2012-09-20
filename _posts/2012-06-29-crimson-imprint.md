@@ -152,9 +152,9 @@ Hollowings 官网开始搭售一款名为“大拔翁”的游戏。
 包装是目前买过的同人游戏中最豪华的。
 手边没有相机，直接拿摄像头代替了。
 
-![封面]({{BASE_PATH}}/images/ci/cover.jpg)
+![封面]({{BASE_PATH}}/images/game/cicover.jpg)
 
-![内容]({{BASE_PATH}}/images/ci/items.jpg)
+![内容]({{BASE_PATH}}/images/game/ciitems.jpg)
 
 一开始插进去光盘读不出来不知何故，不得不重启进 Windows 把安装文件复制到了硬盘上。
 wine 对 krkr2 一直效果不错，除了有些字号变化的字体很奇怪的只能看到点，看回想可以看到，不知是否是 wine 的问题。
@@ -255,7 +255,7 @@ wine 对 krkr2 一直效果不错，除了有些字号变化的字体很奇怪�
 
 万语千言不如一图，给张全通后的 title 画面吧：
 
-![Title]({{BASE_PATH}}/images/ci/title.jpg)
+![Title]({{BASE_PATH}}/images/game/cititle.jpg)
 
 立绘表情也很丰富。
 
