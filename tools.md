@@ -31,6 +31,10 @@ group: navigation
 
 * [LavishBootstrap](http://www.lavishbootstrap.com/)
 
+* [Timeline Example](http://timeline.verite.co/examples/user-interface/)
+
+* [JetStrap](http://jetstrap.com/)
+
 ### [W3School](http://www.w3school.com.cn)
 
 * [js](http://www.w3school.com.cn/js/)
@@ -53,6 +57,10 @@ group: navigation
 * [Compilr](http://compilr.com/)
 * [Online Python Tutor](http://people.csail.mit.edu/pgbovine/python/)
 * [Online VIM](http://myv.im)
+* [GitCafe](https://gitcafe.com/)
+* [GitShell](https://www.gitshell.com/)
+* [CodeCodex](http://www.codecodex.com/wiki/Main_Page)
+* [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
 
 ### blog
 
@@ -166,6 +174,7 @@ group: navigation
 * [NVL](http://nvlmaker.codeplex.com/)
 * [无双](http://gamediy.net)
 * [gaooo](http://www.gaooo.net/)
+* [素材](http://bbs.etale.us/material/)
 
 ### YB
 
@@ -262,6 +271,7 @@ group: navigation
 * [Be the bot](http://www.avivadirectory.com/bethebot/)
 * [HowSecureIsMyPassword](http://howsecureismypassword.net/)
 * [网络发言HX器](http://fanghexie.sinaapp.com/)
+* [佛说](http://keyfc.laputachen.com/bbs/tools/tudoucode.aspx)
 * [Google short url](http://goo.gl/)
 * [git.io](https://github.com/blog/985-git-io-github-url-shortener)
 * [jpg.to](http://jpg.to/)
@@ -269,7 +279,10 @@ group: navigation
 * [RainyMood](http://www.rainymood.com/)
 * [My ys168](http://skydark.ys168.com)
 * [Win32](http://www.michaelv.org/)
+* [gittip](https://www.gittip.com/)
 * [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
+* [SimpleCD](http://www.simplecd.me/)
+* [BT天堂](http://www.bttiantang.com/)
 
 -----------------------
 
