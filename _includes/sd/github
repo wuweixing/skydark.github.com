@@ -10,7 +10,7 @@
     $(document).ready(function(){
 	  github.showRepos({
         user: "{{site.author.github}}",
-		count: 4,
+		count: 7,
 		skip_forks: true,
 		target: '#github_repos'
 	  });
