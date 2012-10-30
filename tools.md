@@ -61,6 +61,7 @@ group: navigation
 * [GitShell](https://www.gitshell.com/)
 * [CodeCodex](http://www.codecodex.com/wiki/Main_Page)
 * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+* [Pyjaco](http://pyjaco.org/demo)
 
 ### blog
 
@@ -175,6 +176,7 @@ group: navigation
 * [无双](http://gamediy.net)
 * [gaooo](http://www.gaooo.net/)
 * [素材](http://bbs.etale.us/material/)
+* [K-project](http://k-project.kevinblog.net/)
 
 ### YB
 
@@ -195,6 +197,7 @@ group: navigation
 * [TeamLock](http://www.teamlock.net/)
 * [GameMaster](http://www.gamemastercn.com/)
 * [Moria](http://moria-game.com/zh/main/)
+* [虹色旋律](http://melodyofiris.com)
 
 ### HSP
 {: .hide}
@@ -232,6 +235,7 @@ group: navigation
 * [SEP](http://plato.stanford.edu/)
 * [数学工具](http://zh.numberempire.com/)
 * [CallForPaper](http://www.wikicfp.com/cfp/)
+* [北大语言逻辑认知计算跨学科论坛](http://llcc.pku.edu.cn/llcc/)
 
 ### Logic
 
