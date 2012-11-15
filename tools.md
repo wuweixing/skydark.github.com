@@ -289,6 +289,7 @@ group: navigation
 * [Lenna](http://www.cs.cmu.edu/~chuck/lennapg/)
 * [SimpleCD](http://www.simplecd.me/)
 * [BT天堂](http://www.bttiantang.com/)
+* [MusOpen](http://musopen.org/)
 
 -----------------------
 
