@@ -1,0 +1,16 @@
+---
+layout: post
+title: "鸑鷟 摩耶之纱 女警篇 DEMO"
+category: ACG
+excerpt: "有生之年"
+tags: [acg]
+---
+{% include JB/setup %}
+
+![Title]({{BASE_PATH}}/images/game/yz2demo.jpg)
+
+一切尽在不言中。
+
+能遇到鸑鷟，真的是太好了。
+
+> @Youth-Bloom: 《鸑鷟》系列除了08年的圣诞版之外，已经完成的还有09年的免费作品《橘子传》，09年底的实体版《镜花水月》，10年的免费作品《橘子传FULL VOICE》，以及12年的圣诞版《女警篇》，《摩耶之纱》制作顺利进行中，谢谢支持！
