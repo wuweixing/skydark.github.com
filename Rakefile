@@ -3,6 +3,8 @@ require 'rake'
 require 'yaml'
 require 'time'
 
+EDITOR="vim -p --servername 'tildavim' --remote-tab"
+
 SOURCE = "."
 CONFIG = {
   'version' => "0.2.9",
@@ -69,6 +71,7 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+  system "#{EDITOR} #{filename} &"
 end # task :post
 
 # Usage: rake page name="about.html"
@@ -93,6 +96,7 @@ task :page do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+  system "#{EDITOR} #{filename} &"
 end # task :page
 
 desc "Create a encrypted page."
