@@ -9,7 +9,7 @@ tags: [acg]
 
 其实打通有几周了，但是这个月状态有问题……(老板：“作死……”)
 
-感谢[冰枫](http://icemaple.info/http://icemaple.info/)推荐，让我接触到这款***诚意满满***的作品。
+感谢[冰枫](http://icemaple.info/)推荐，让我接触到这款***诚意满满***的作品。
 没错，我觉得这是我最想给的评价。
 
 ![Cover]({{BASE_PATH}}/images/game/teh.jpg)
