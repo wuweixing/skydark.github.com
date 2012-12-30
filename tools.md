@@ -170,6 +170,7 @@ group: navigation
 ### 同人
 {: .hide}
 
+* [国产同人整理](http://chii.in/index/566)
 * [KCDDP](http://kcddp.keyfc.net/bbs/)
 * [CAC](http://www.doujingame.cn/)
 * [CAC BBS](http://bbs.doujingame.cn/forum.php)
