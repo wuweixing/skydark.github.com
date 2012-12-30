@@ -75,7 +75,9 @@ var gist_callback = function(){
           url: 'https://gist.github.com/'+id+'.json?callback=?',
           dataType: 'jsonp',
           success: function(data){
-            emb.html(data.div);
+            var text = '<link href="'+data.stylesheet+'" media="screen" rel="stylesheet" />';
+            text += data.div;
+            emb.html(text);
           }
         });
       }
