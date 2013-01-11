@@ -115,7 +115,6 @@ group: navigation
 * [JohnHE](http://blog.163.com/john_he_/)
 * [JohnHE's work](http://www.rpgchina.net/read-htm-tid-26878.html)
 * [ACGF-ONScripter](http://code.google.com/p/onscripter/)
-* [Kidgal](http://kidgal.blog.163.com/)
 * [KrJava](http://www.kaede-software.com/)
 
 ### References
@@ -151,6 +150,16 @@ group: navigation
 * [铁傲](http://user.gamez.com.tw/forum-477-1.html)
 * [Konachan](http://konachan.com/)
 
+### Friends
+{: .hide}
+
+* [冰枫](http://icemaple.info/)
+* [Orion](http://ori0n.co.de/)
+* [小鸠](http://kobato.us/)
+* [Toktc](http://hi.baidu.com/new/toktc)
+* [Kidgal](http://kidgal.blog.163.com/)
+* [ROF](http://rof.blog.lc/)
+
 ### Tools
 {: .hide}
 * [AnimeED](http://wks.arai-kibou.ru/animed.php?p=compat)
@@ -179,6 +188,7 @@ group: navigation
 * [无双](http://gamediy.net)
 * [gaooo](http://www.gaooo.net/)
 * [素材](http://bbs.etale.us/material/)
+* [素材2](http://hydrozoa.sinaapp.com/index.php)
 * [K-project](http://k-project.kevinblog.net/)
 
 ### YB
@@ -240,6 +250,7 @@ group: navigation
 * [CallForPaper](http://www.wikicfp.com/cfp/)
 * [北大语言逻辑认知计算跨学科论坛](http://llcc.pku.edu.cn/llcc/)
 * [Web Equation](http://webdemo.visionobjects.com/equation.html?locale=zh_CN)
+* [Detexify](http://detexify.kirelabs.org/classify.html)
 
 ### Logic
 
