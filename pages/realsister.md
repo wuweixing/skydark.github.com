@@ -91,7 +91,7 @@ title: "实妹相伴的大泉君 ONS移植版"
 
 * 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
 
-* [脚本文件(5月3日0.05版)](http://pan.baidu.com/netdisk/singlepublic?fid=807910_587753073)
+* [脚本文件(5月3日0.05版)](http://pan.baidu.com/share/link?shareid=163498&uk=1124565063)
 
 * [图像文件,请重命名为`arc.nsa`](http://pan.baidu.com/netdisk/singlepublic?fid=807910_3236578514)
 
@@ -130,7 +130,7 @@ title: "实妹相伴的大泉君 ONS移植版"
 
 如果你是1024x600分辨率等大分辨率机型，或者想使用PC版ONS运行，可以使用800x600分辨率的游戏资源，下载时使用下面的资源即可：
 
-[800x600版脚本文件](http://pan.baidu.com/netdisk/singlepublic?fid=807910_86599503)
+[800x600版脚本文件](http://pan.baidu.com/share/link?shareid=163497&uk=1124565063)
 
 [800x600版图像文件（230M）](http://pan.baidu.com/netdisk/singlepublic?fid=807910_3948019784)
 
