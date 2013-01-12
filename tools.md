@@ -249,6 +249,8 @@ group: navigation
 * [数学工具](http://zh.numberempire.com/)
 * [CallForPaper](http://www.wikicfp.com/cfp/)
 * [北大语言逻辑认知计算跨学科论坛](http://llcc.pku.edu.cn/llcc/)
+* [Project Gutenberg: eBooks](http://www.gutenberg.org/wiki/Main_Page)
+* [数字图书馆](http://www.wdl.org/zh/)
 * [Web Equation](http://webdemo.visionobjects.com/equation.html?locale=zh_CN)
 * [Detexify](http://detexify.kirelabs.org/classify.html)
 
