@@ -305,6 +305,8 @@ group: navigation
 * [SimpleCD](http://www.simplecd.me/)
 * [BT天堂](http://www.bttiantang.com/)
 * [MusOpen](http://musopen.org/)
+* [G](http://www.greatfirewallofchina.org/)
+* [BlockInC](http://www.blockedinchina.net/)
 
 -----------------------
 
