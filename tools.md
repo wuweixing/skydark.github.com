@@ -258,6 +258,7 @@ group: navigation
 
 * [Boss](http://www.is.pku.edu.cn/~lz/cindex.html)
 * [Pei Wang](http://www.cis.temple.edu/~wangp/)
+* [Wang YJ](http://www.phil.pku.edu.cn/personal/wangyj/index.html)
 
 -----------------------
 
