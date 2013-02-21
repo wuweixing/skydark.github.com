@@ -175,7 +175,7 @@ test()
 
 2. g 中的 x 指 x2: python, scheme(使用`define`) 和 javascript(nodejs). Python 在第一次调用 g 时会因为 x2 尚未赋值而抛出异常。Scheme 这边，guile 的行为类似 python, racket 则类似 javascript;
 
-3. 动态作用域: perl;
+3. 动态作用域: perl(local);
 
 4. 不需要考虑这类问题: lisp 等，因为`let`的作用域很明确; C 等也不需要考虑，因为没有嵌套函数;
 
