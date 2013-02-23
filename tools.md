@@ -7,37 +7,28 @@ group: navigation
 
 <div markdown="1">
 
-## 前端
+## 程序
+
+### 前端
+{: .hide}
 
 * [JsFiddle](http://jsfiddle.net)
-
 * [RunJS](http://runjs.cn/)
-
 * [Browser Shots](http://browsershots.org/)
-
 * [Jash](javascript:(function(){document.body.appendChild(document.createElement('script')).src='http://www.billyreisinger.com/jash/source/latest/Jash.js';})(); "js终端调试器")
-
 * [HasLayout](http://haslayout.net/css/ "IE快来战个痛")
-
 * [IE6 Cheatsheet](http://www.virtuosimedia.com/dev/css/ultimate-ie6-cheatsheet-how-to-fix-25-internet-explorer-6-bugs "IE6 itself is a bug")
-
 * [Lorem Ipsum](http://www.lipsum.com/)
-
 * [jQuery API](http://api.jquery.com/)
-
 * [DartWiki](http://dart.lidian.info/)
-
 * [W3CFuns](http://www.w3cfuns.com)
-
 * [HowBrowsersWorks](http://taligarsiel.com/Projects/howbrowserswork1.htm) [中文版](http://blog.jobbole.com/12749/)
-
 * [LavishBootstrap](http://www.lavishbootstrap.com/)
-
 * [Timeline Example](http://timeline.verite.co/examples/user-interface/)
-
 * [JetStrap](http://jetstrap.com/)
 
 ### [W3School](http://www.w3school.com.cn)
+{: .hide}
 
 * [js](http://www.w3school.com.cn/js/)
 * [jsref](http://www.w3school.com.cn/js/jsref_obj_string.asp)
@@ -46,11 +37,8 @@ group: navigation
 * [SQL](http://www.w3school.com.cn/sql/sql_quickref.asp)
 * [css](http://www.w3school.com.cn/css/css_classification.asp)
 
------------------------
-
-## 程序
-
 ### 工具
+{: .hide}
 
 * [Markdown Editor](http://chaous.com/markdown/)
 * [Unicode Converter](http://rishida.net/tools/conversion)
@@ -61,8 +49,6 @@ group: navigation
 * [Online VIM](http://myv.im)
 * [GitCafe](https://gitcafe.com/)
 * [GitShell](https://www.gitshell.com/)
-* [CodeCodex](http://www.codecodex.com/wiki/Main_Page)
-* [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
 * [Pyjaco](http://pyjaco.org/demo)
 
 ### blog
@@ -73,6 +59,7 @@ group: navigation
 * [rednaxelafx](http://rednaxelafx.javaeye.com)
 
 ### 书.教程
+{: .hide}
 
 * [ProGit](http://progit.org/book/zh/)
 * [Git Community Book](http://gitbook.liuhui998.com/index.html)
@@ -87,7 +74,13 @@ group: navigation
 * [GotGitHub](http://www.worldhello.net/gotgithub/)
 * [JS库解构](http://www.cn-cuckoo.com/deconstructed/)
 * [Haskell Tutorial](http://www.haskell.org/tutorial/)
+* [JavaScript for Pythoner](http://jfine.bitbucket.org/docs/js4py/)
+
+### 程序语言
+* [CPython Compilers](http://compilers.pydata.org/)
 * [Esolang](http://esolangs.org/wiki/Main_Page)
+* [CodeCodex](http://www.codecodex.com/wiki/Main_Page)
+* [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
 
 ### Lisp
 {: .hide}
@@ -153,6 +146,7 @@ group: navigation
 ### Friends
 {: .hide}
 
+* [Bakerist](http://www.bakerist.info/)
 * [冰枫](http://icemaple.info/)
 * [Orion](http://ori0n.co.de/)
 * [小鸠](http://kobato.us/)
@@ -187,8 +181,7 @@ group: navigation
 * [NVL](http://nvlmaker.codeplex.com/)
 * [无双](http://gamediy.net)
 * [gaooo](http://www.gaooo.net/)
-* [素材](http://bbs.etale.us/material/)
-* [素材2](http://hydrozoa.sinaapp.com/index.php)
+* [素材 by NVLMaker](http://www.nvlmaker.net/material.html)
 * [K-project](http://k-project.kevinblog.net/)
 
 ### YB
@@ -308,6 +301,7 @@ group: navigation
 * [MusOpen](http://musopen.org/)
 * [G](http://www.greatfirewallofchina.org/)
 * [BlockInC](http://www.blockedinchina.net/)
+* [Stypi](https://www.stypi.com)
 
 -----------------------
 
