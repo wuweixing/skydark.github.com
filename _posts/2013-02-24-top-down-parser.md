@@ -687,7 +687,7 @@ def tokenize(program):
 
 ### Python 表达式语法
 
-那么，让我们对语法做点什么。
+好，让我们对语法做点什么。
 我们可以从之前展示的语法片段中推出正确的表达式语法，但在 Python 的语言参考的“求值顺序”一节中还有更实用的描述。
 该节中的表格按优先顺序从低至高地列出了所有表达式运算符。
 这儿是对应的定义(绑定力从20开始)。
@@ -777,9 +777,9 @@ symbol(")")
 让我们来试验一下：
 
 {% highlight python %}
->>> 1+2*3
+>>> parse("1+2*3")
 (+ (literal 1) (* (literal 2) (literal 3)))
->>> (1+2)*3
+>>> parse("(1+2)*3")
 (* (+ (literal 1) (literal 2)) (literal 3))
 {% endhighlight python %}
 
@@ -787,7 +787,7 @@ symbol(")")
 
 同样提醒一下，我们在这里暂时作了个弊：
 前缀`(`在 Python 中有两种含义；
-它既可以用来分组，就像上面那样，也可以用来创建元组。
+它既可以像上面那样用来分组，也可以用来创建元组。
 我们下面再修复这个问题。
 
 ### 三元运算符
@@ -817,7 +817,6 @@ symbol("else")
 
 为了处理属性查找，“.”运算符需要一个`led`方法。
 为了方便，这个版本验证点号随后的是合适的命名词素(这项检查也可以在之后的步骤中进行)：
-To handle attribute lookups, the “.” operator needs a “led” method. For convenience, this version verifies that the period is followed by a proper name token (this check could be made at a later stage as well):
 
 {% highlight python %}
 def led(self, left):
@@ -908,7 +907,7 @@ def led(self, left):
 {% endhighlight python %}
 
 这里稍微简化了点；这个版本并不支持关键字实参和`*`与`**`形式。
-为了处理关键字实参，在第一个表达式后查找`=`，要是找到了，检查子树是一个平坦的命名，接下来再次调用`expression`以取得默认值。
+为了处理关键字实参，在第一个表达式后查找`=`，要是找到了，检查子树是否是一个平坦的命名，接下来再次调用`expression`以取得默认值。
 另一种形式可以被对应运算符的`nud`方法处理，但在这个方法中处理这些大概更容易。
 
 ### Lambdas
