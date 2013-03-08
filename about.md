@@ -26,8 +26,9 @@ group: navigation
 
 其实我想不用麻烦直接在这边留言就可以了……
 
-* 微博: http://weibo.com/skydarkchen
-* G+: https://plus.google.com/117704226616638577311/
+* 微博: <http://weibo.com/skydarkchen>
+* G+: <https://plus.google.com/117704226616638577311/>
+* github: <https://github.com/skydark>
 * Mail: skydark2 at gmail
 
 ## 关于这里
@@ -36,8 +37,11 @@ group: navigation
 
 有关这个博客的搭建，请参考[这里](http://blog.skydark.info/programming/2012/03/23/play-with-jekyll)。
 如果需要相关的 css/javascript 等代码，请随意自取/Fork不要介意。
+
 友情提示：考虑到我不懂前端，这些代码可能引起读者不适。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />所有作品如未特殊声明则采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 Unported许可协议</a>进行许可。
+至于博文：
 
-不过考虑到这里以胡言乱语居多……![以头抢砖]({{BASE_PATH}}/images/bq/ytqz.gif)![抱头捶地]({{BASE_PATH}}/images/bq/btcd.gif)
+> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />所有作品如未特殊声明则采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 Unported许可协议</a>进行许可。
+
+如上，不过考虑到这里以胡言乱语居多……![以头抢砖]({{BASE_PATH}}/images/bq/ytqz.gif)![抱头捶地]({{BASE_PATH}}/images/bq/btcd.gif)
