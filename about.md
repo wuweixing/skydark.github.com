@@ -26,10 +26,13 @@ group: navigation
 
 其实我想不用麻烦直接在这边留言就可以了……
 
-* 微博: <http://weibo.com/skydarkchen>
-* G+: <https://plus.google.com/117704226616638577311/>
-* github: <https://github.com/skydark>
-* Mail: skydark2 at gmail
+[![微博]({{BASE_PATH}}/images/weibo-32.png)](http://weibo.com/skydarkchen)
+[![G+](https://ssl.gstatic.com/images/icons/gplus-32.png)](https://plus.google.com/117704226616638577311/)
+[![GitHub]({{BASE_PATH}}/images/blacktocat-32.png)](https://github.com/skydark)
+
+{% highlight python %}
+MAIL = '{}2 at gmail.com'.format(THIS_URL.split('.')[1]).replace(' at ', '@')
+{% endhighlight python %}
 
 ## 关于这里
 
