@@ -66,6 +66,9 @@ ONS指ONScripter，以模拟NScripter为初衷的开源GALGame引擎，虽然功
 如果你是Android平台,请安装
 [ONScripter-GBK.apk](http://pan.baidu.com/netdisk/singlepublic?fid=907105_3678419696) (此为0619版，可自行搜索新版本使用)，并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
 
+如果需要最新的模拟器，推荐使用[面包工坊的版本](http://portal.bakerist.info/node/251)。
+由于新版模拟器对宽屏模式的支持方式不同，你需要在游戏目录里新建一个“ons.wide”文件，再修改屏幕比例为16:9，以避免黑边的出现。
+
 如果你是S60平台，请参考[这里](http://www.opda.net.cn/thread-587174-1-1.html)和[这里](http://kdays.cn/days/read.php?tid=67001)。
 
 如果你需要在win下运行，可以使用[win版的ons-gbk](http://pan.baidu.com/netdisk/singlepublic?fid=807495_2166340977) ，解压到游戏目录，运行其中run.bat即可使用宽屏模式运行。

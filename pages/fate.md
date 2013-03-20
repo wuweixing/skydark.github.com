@@ -52,7 +52,8 @@ title: "Fate ONS移植版"
 5. [LastEpisode修正(2012/08/28更新)](http://pan.baidu.com/share/link?shareid=7669&uk=1124565063/)
 
 请按顺序解压到同一个目录中。
-模拟器请自行搜索下载最新版。Android 用户可以使用[ONScripter-GBK.apk](http://pan.baidu.com/netdisk/singlepublic?fid=907105_3678419696) (此为20110619版），并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
+模拟器请自行搜索下载最新版，推荐使用[面包工坊的版本](http://portal.bakerist.info/node/251)。
+并在SD卡建立ONS的文件夹，将游戏目录复制到这里。
 
 特别需要强调的是，遇到任何问题前，*请确保已经使用了CG鉴赏模式补丁和最新脚本*。
 

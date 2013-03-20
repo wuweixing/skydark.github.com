@@ -89,7 +89,7 @@ title: "实妹相伴的大泉君 ONS移植版"
 
 ## 游戏下载
 
-* 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
+* 模拟器请自行搜索下载最新版，推荐使用[面包工坊的版本](http://portal.bakerist.info/node/251)。
 
 * [脚本文件(5月3日0.05版)](http://pan.baidu.com/share/link?shareid=163498&uk=1124565063)
 

@@ -48,7 +48,7 @@ title: "3days ONS 移植版"
 
 ## 游戏下载
 
-* 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）
+* 主程序（炮神原帖里那个，现在已经有更新了，需要新版的请追[炮神原帖](http://bbs.gfan.com/android-327827-1-1.html)）[面包工坊的版本](http://portal.bakerist.info/node/251)是最新的。
 
 * [脚本文件](http://pan.baidu.com/share/link?shareid=6972&uk=1124565063/)(2012/08/26 0.1314159版)
 
