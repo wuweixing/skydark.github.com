@@ -12,6 +12,7 @@ group: navigation
 ### 前端
 {: .hide}
 
+* [JSRef](https://developer.mozilla.org/zh-CN/docs/JavaScript/Reference)
 * [JsFiddle](http://jsfiddle.net)
 * [RunJS](http://runjs.cn/)
 * [Browser Shots](http://browsershots.org/)
@@ -50,6 +51,7 @@ group: navigation
 * [GitCafe](https://gitcafe.com/)
 * [GitShell](https://www.gitshell.com/)
 * [Pyjaco](http://pyjaco.org/demo)
+* [RubyFiddle](http://rubyfiddle.com/)
 
 ### blog
 
