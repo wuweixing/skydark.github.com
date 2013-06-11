@@ -76,10 +76,14 @@ group: navigation
 * [GotGitHub](http://www.worldhello.net/gotgithub/)
 * [JS库解构](http://www.cn-cuckoo.com/deconstructed/)
 * [Haskell Tutorial](http://www.haskell.org/tutorial/)
+* [Real World Haskell(zh)](https://rwh.readthedocs.org/en/latest/index.html)
+* [Haskell 趣学指南](http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html)
+* [Effective Scala](http://twitter.github.io/effectivescala/index-cn.html)
 * [JavaScript for Pythoner](http://jfine.bitbucket.org/docs/js4py/)
 
 ### 程序语言
 * [CPython Compilers](http://compilers.pydata.org/)
+* [PLT Games](http://www.pltgames.com/)
 * [Esolang](http://esolangs.org/wiki/Main_Page)
 * [CodeCodex](http://www.codecodex.com/wiki/Main_Page)
 * [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
