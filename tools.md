@@ -271,6 +271,9 @@ group: navigation
 * [Hoi](http://hloli.net/hoi)
 * [漫画搜索](http://hloli.appspot.com/mangasearch)
 * [酷酷鸟](http://kukubird.sinaapp.com/)
+* [漫画自定义搜索](https://www.google.com/cse/home?cx=002948535609514911011:ls5mhwb6sqa&hl=zh-CN)
+* [四散的尘埃](http://www.kcjc.net/)
+* [轻国epub](http://www.lightnovel.cn/forum-194-1.html)
 
 ### AC100
 
