@@ -3,6 +3,7 @@ layout: page
 title: "秽翼的尤斯蒂娅 ONS移植版"
 ---
 {% include JB/setup %}
+{% include sd/transplant %}
 
 首发：
 [澄空](http://bbs.sumisora.org/read.php?tid=11004749)

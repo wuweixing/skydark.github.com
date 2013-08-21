@@ -3,6 +3,7 @@ layout: page
 title: "3days ONS 移植版"
 ---
 {% include JB/setup %}
+{% include sd/transplant %}
 
 首发：
 [机锋](http://bbs.gfan.com/viewthread.php?tid=637440)

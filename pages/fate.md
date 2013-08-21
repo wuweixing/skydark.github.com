@@ -3,6 +3,7 @@ layout: page
 title: "Fate ONS移植版"
 ---
 {% include JB/setup %}
+{% include sd/transplant %}
 
 首发(2009.10.10)：
 [imp3](http://bbs.imp3.net/thread-667000-1-1.html)
@@ -38,8 +39,6 @@ title: "Fate ONS移植版"
     感谢澄空学园TM版都谷老大对汉化授权方面的回复。
 
 5. 适用于分辨率VGA及以上，支持SDL，可以编译onscripter的任意平台，呃，理论上是这样的，实际上从性能角度考虑可能需要关闭不少动态效果──Fate的演出效果太BT了，真的= =另外预留了更低分辨率的预算，但是不保证好使，PSP党更推荐参考夜君的作品……= =
-
-6. 请不要让我知道你是从某个贴吧名是ons加两个汉字的贴吧下载的，我的其他工作同理，只是我懒得让这个吧污染我的每个移植贴。
 
 ---
 
