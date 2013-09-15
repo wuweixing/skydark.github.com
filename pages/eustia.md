@@ -58,6 +58,19 @@ ONS指ONScripter，以模拟NScripter为初衷的开源GALGame引擎，虽然功
     > 可以使得在显示tiya说话的图片的时候暂停。
     > 如果已经存过档，需要提醒的是修改脚本文件会影响读档。
 
+* 关于BGM循环，现在是只播放loop部分不播放head部分的。在支持`loopbgm`命令的ONS版本上可以如下修改(感谢*Tony Beta Lambda*在评论中提醒并给出修补方法)：
+
+    > 在37.txt中`*b_BgmPlay`段中(17行开始)，将(21行开始)：
+    >
+    >     fileconv_ex $1001, "bgm_", %1002, 4, "_loop.ogg"
+    >     bgm $1001
+    >
+    > 修改为
+    >
+    >     fileconv_ex $1001, "bgm_", %1002, 4, "_loop.ogg"
+    >     fileconv_ex $1002, "bgm_", %1002, 4, "_head.ogg"
+    >     loopbgm $1002, $1001
+
 ---
 
 ## 游戏文件
