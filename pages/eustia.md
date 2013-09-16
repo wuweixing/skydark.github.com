@@ -70,6 +70,8 @@ ONS指ONScripter，以模拟NScripter为初衷的开源GALGame引擎，虽然功
     >     fileconv_ex $1001, "bgm_", %1002, 4, "_loop.ogg"
     >     fileconv_ex $1002, "bgm_", %1002, 4, "_head.ogg"
     >     loopbgm $1002, $1001
+    >
+    > 对应的，下面`*b_BgmStop`段中的`bgmstop`也要改成`loopbgmstop`.
 
 ---
 
